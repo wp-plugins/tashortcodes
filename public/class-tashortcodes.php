@@ -43,7 +43,7 @@ class TAShortcodes {
 	 *
 	 * @var      string
 	 */
-	protected $plugin_slug = 'tashortcodes';
+	protected $plugin_slug = 'ta-shortcodes';
 
 	/**
 	 * Instance of this class.
