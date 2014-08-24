@@ -8,7 +8,7 @@
  * @copyright 2014 Alain Sanchez
  *
  * @wordpress-plugin
- * Plugin Name:       TAShortcodes
+ * Plugin Name:       TA Shortcodes
  * Plugin URI:       http://www.todoapuestas.org
  * Description:       A set of useful shortcodes for todoapuestar.org sites's.
  * Version:           1.0.0
