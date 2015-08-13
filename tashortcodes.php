@@ -2,9 +2,9 @@
 /**
  *
  * @package   TAShortcodes
- * @author    Alain Sanchez <asanchezg@inetzwerk.com>
+ * @author    Alain Sanchez <luka.ghost@gmail.com>
  * @license   GPL-2.0+
- * @link      http://www.inetzwerk.com
+ * @link      http://www.linkedin.com/in/mrbrazzi/
  * @copyright 2014 Alain Sanchez
  *
  * @wordpress-plugin
@@ -13,7 +13,7 @@
  * Description:       A set of useful shortcodes for todoapuestar.org sites's.
  * Version:           1.0.0
  * Author:       Alain Sanchez
- * Author URI:       http://www.inetzwerk.com
+ * Author URI:       http://www.linkedin.com/in/mrbrazzi/
  * Text Domain:       tashortcodes
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt

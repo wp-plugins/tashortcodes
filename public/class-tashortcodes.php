@@ -3,9 +3,9 @@
  * Plugin Name.
  *
  * @package   TAShortcodes
- * @author    Alain Sanchez <asanchezg@inetzwerk.com>
+ * @author    Alain Sanchez <luka.ghost@gmail.com>
  * @license   GPL-2.0+
- * @link      http://www.inetzwerk.com
+ * @link      http://www.linkedin.com/in/mrbrazzi/
  * @copyright 2014 Alain Sanchez
  */
 
@@ -69,8 +69,8 @@ class TAShortcodes {
 		add_action( 'wpmu_new_blog', array( $this, 'activate_new_site' ) );
 
 		// Load public-facing style sheet and JavaScript.
-		add_action( 'wp_enqueue_scripts', array( $this, 'enqueue_styles' ) );
-		add_action( 'wp_enqueue_scripts', array( $this, 'enqueue_scripts' ) );
+//		add_action( 'wp_enqueue_scripts', array( $this, 'enqueue_styles' ) );
+//		add_action( 'wp_enqueue_scripts', array( $this, 'enqueue_scripts' ) );
 
         /* Define custom functionality.
          * Refer To http://codex.wordpress.org/Plugin_API#Hooks.2C_Actions_and_Filters
