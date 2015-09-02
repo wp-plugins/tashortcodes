@@ -330,6 +330,7 @@ class TAShortcodes {
 
     public function remote_sync($d = null)
     {
+        //TODO: refactorizar a solucion que obtiene informacion a traves de la api de servicios REST
         $url_sync_link = 'http://www.todoapuestas.org/listBlogsLinksJson.php';
 
         $domain = $d;
